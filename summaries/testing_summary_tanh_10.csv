@@ -1,0 +1,61 @@
+,model,seed,columns,params,params_idx,cost,anticipation,detected_faults,missed_faults,false_alarms
+0,mlp,1000,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+1,mlp,1000,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+2,mlp,1000,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+3,mlp,1100,w5_features,{'hidden_mlp': [32]},1,1111.600000000113,0.7846153846153846,13,0,5363
+4,mlp,1100,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+5,mlp,1100,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+6,mlp,1200,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+7,mlp,1200,w5_features,"{'hidden_mlp': [64, 32]}",2,447.5999999999867,0.7230769230769231,13,0,1888
+8,mlp,1200,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+9,mlp,1300,w5_features,{'hidden_mlp': [32]},1,715.8,0.0,0,13,4
+10,mlp,1300,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+11,mlp,1300,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+12,mlp,1400,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+13,mlp,1400,w5_features,"{'hidden_mlp': [64, 32]}",2,716.8000000000002,0.0,0,13,9
+14,mlp,1400,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+15,mlp,1500,w5_features,{'hidden_mlp': [32]},1,715.2,0.0,0,13,1
+16,mlp,1500,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+17,mlp,1500,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+18,mlp,1600,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+19,mlp,1600,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+20,mlp,1600,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,2759.599999999681,0.9,13,0,13798
+21,mlp,1700,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+22,mlp,1700,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+23,mlp,1700,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+24,mlp,1800,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+25,mlp,1800,w5_features,"{'hidden_mlp': [64, 32]}",2,2255.20000000014,0.9,13,0,11276
+26,mlp,1800,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+27,mlp,1900,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+28,mlp,1900,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+29,mlp,1900,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+30,mlp,2000,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+31,mlp,2000,w5_features,"{'hidden_mlp': [64, 32]}",2,381.3999999999894,0.6923076923076923,13,0,1537
+32,mlp,2000,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+33,mlp,2100,w5_features,{'hidden_mlp': [32]},1,1851.0000000002838,0.9,13,0,9255
+34,mlp,2100,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+35,mlp,2100,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+36,mlp,2200,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+37,mlp,2200,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+38,mlp,2200,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+39,mlp,2300,w5_features,{'hidden_mlp': [32]},1,716.4000000000001,0.0,0,13,7
+40,mlp,2300,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+41,mlp,2300,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,537.1999999999916,0.4,11,2,1131
+42,mlp,2400,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+43,mlp,2400,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+44,mlp,2400,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+45,mlp,2500,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+46,mlp,2500,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+47,mlp,2500,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+48,mlp,2600,w5_features,{'hidden_mlp': [32]},1,644.6000000000031,0.78,10,3,2253
+49,mlp,2600,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+50,mlp,2600,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+51,mlp,2700,w5_features,{'hidden_mlp': [32]},1,2759.599999999681,0.9,13,0,13798
+52,mlp,2700,w5_features,"{'hidden_mlp': [64, 32]}",2,660.4000000000002,0.3,2,11,62
+53,mlp,2700,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
+54,mlp,2800,w5_features,{'hidden_mlp': [32]},1,1794.6000000002693,0.8692307692307691,13,0,8938
+55,mlp,2800,w5_features,"{'hidden_mlp': [64, 32]}",2,615.3999999999987,0.6,3,10,202
+56,mlp,2800,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,1619.0000000002296,0.8692307692307691,13,0,8065
+57,mlp,2900,w5_features,{'hidden_mlp': [32]},1,715.0,0.0,0,13,0
+58,mlp,2900,w5_features,"{'hidden_mlp': [64, 32]}",2,715.0,0.0,0,13,0
+59,mlp,2900,w5_features,"{'hidden_mlp': [128, 64, 32]}",3,715.0,0.0,0,13,0
